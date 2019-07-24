@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplineTest", "SplineTest\SplineTest.csproj", "{87A612C4-7C76-4E3E-8786-BCC052D02B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A612C4-7C76-4E3E-8786-BCC052D02B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A612C4-7C76-4E3E-8786-BCC052D02B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A612C4-7C76-4E3E-8786-BCC052D02B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A612C4-7C76-4E3E-8786-BCC052D02B80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B878F7-BDCD-49B9-A615-BFE9BA6FA600}
+	EndGlobalSection
+EndGlobal
